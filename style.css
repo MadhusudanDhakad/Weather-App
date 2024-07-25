@@ -31,8 +31,8 @@
 }
 
 .container.dark-mode {
-    /* background-image: linear-gradient(160deg, #112d4e 0%, #3f72af 100%); */
-    background-image: linear-gradient(160deg, #091c30 0%, #114687 100%);
+    background-image: linear-gradient(to right, #2f2f2f 0%, #0d0d0d 100%);
+/*     background-image: linear-gradient(160deg, #091c30 0%, #114687 100%); */
     color: var(--colorLight2);
 }
 
